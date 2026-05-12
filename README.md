@@ -12,6 +12,7 @@
 
 2026/04/28 [具冒充者與欺騙攻擊偵測之語者辨識](https://github.com/jinrui117/Seminar-II-report-section/blob/main/%E6%9B%B8%E5%A0%B1%E8%A8%8E%E8%AB%9620260428.pdf)
 
+2026/05/12 [綠色科技與光電元件之發展應用](https://github.com/jinrui117/Seminar-II-report-section/blob/main/%E6%9B%B8%E5%A0%B1%E8%A8%8E%E8%AB%9620260512.pdf)
 
 ## 書面報告
 

@@ -17,3 +17,5 @@
 ## 書面報告
 
 2026/03/31 [如何打造台版Edge Impulse TinyML開發平台](https://github.com/jinrui117/Seminar-II-report-section/blob/main/%E6%9B%B8%E5%A0%B1%E8%A8%8E%E8%AB%96%E5%AE%8C%E6%95%B4%E6%9B%B8%E9%9D%A2%E5%A0%B1%E5%91%8A20260331.pdf)
+
+2026/05/12 [綠色科技與光電元件之發展應用](https://github.com/jinrui117/Seminar-II-report-section/blob/main/%E6%9B%B8%E5%A0%B1%E8%A8%8E%E8%AB%96%E5%AE%8C%E6%95%B4%E6%9B%B8%E9%9D%A2%E5%A0%B1%E5%91%8A20260512.pdf)
